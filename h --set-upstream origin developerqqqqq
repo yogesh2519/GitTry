@@ -1,0 +1,51 @@
+[33mcommit d3d36b466ce4e0dc518edf3169789f7f635957c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 191e040 c34a06f
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 18:45:52 2020 +0530
+
+    Merge pull request #1 from yogesh2519/newLocal
+    
+    Updated the code
+
+[33mcommit c34a06f561319811a7ef77818f1bd16a4bea25cd[m[33m ([m[1;31morigin/newLocal[m[33m)[m
+Merge: 457cfc5 191e040
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 18:45:28 2020 +0530
+
+    Merge branch 'master' into newLocal
+
+[33mcommit 191e0405e3aff58bec69efc2c0c1c7ade908c1ad[m[33m ([m[1;32mnewDev1[m[33m)[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 18:17:53 2020 +0530
+
+    Adding nrw changes to newDev1
+
+[33mcommit 457cfc51f47a3a57deef937bfd8fe6937ec048d5[m[33m ([m[1;32mnewLocal[m[33m, [m[1;32mnewDev2[m[33m)[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 18:13:05 2020 +0530
+
+    Updated the code
+
+[33mcommit 5611dea1c7beea758abcbc4c1b11d6eb657cd99b[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 17:40:07 2020 +0530
+
+    adding new CMM
+
+[33mcommit e248cd6ec3a510a092a3f32de3f1c89c08a28b1f[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 17:38:17 2020 +0530
+
+    Adding a new SQL file
+
+[33mcommit 2ef3f4832ffd183a1e951bf93f963f3b47a7d87d[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 17:30:25 2020 +0530
+
+    first check in
+
+[33mcommit 30ad09d3fcfc59c66dfd522da8c9dc315e5694e5[m
+Author: yogesh2519 <yogesh.rock07@gmail.com>
+Date:   Fri May 22 17:27:50 2020 +0530
+
+    first commit
