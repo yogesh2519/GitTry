@@ -13,7 +13,7 @@ public class StreamTest {
 	{
 		List<Integer> numbers = new ArrayList<Integer>();
 		numbers.add(1);
-		numbers.add(66);
+		numbers.add(45);
 		numbers.add(13);
 		numbers.add(111);
 		
@@ -35,7 +35,7 @@ public class StreamTest {
 			return num;
 		};
 		
-		System.out.println("\n Udpated the data"+randomSupplier.get());
+		System.out.println("\n"+randomSupplier.get());
 		
 		
 		
