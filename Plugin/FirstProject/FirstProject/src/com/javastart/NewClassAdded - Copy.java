@@ -5,13 +5,11 @@ public class GenericsTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-		genericClass genericData = new genericClass("Updated");
-
+		genericClass genericData = new genericClass("Some Data");
 		
 		
 		/*
-		Data data = new Data("Some Value string");
+		Data data = new Data("Some string");
 		String var = (String)data.getObj();
 		System.out.print(var);*/
 	}

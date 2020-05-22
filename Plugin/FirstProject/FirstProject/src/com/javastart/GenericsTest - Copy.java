@@ -6,7 +6,7 @@ public class GenericsTest {
 		// TODO Auto-generated method stub
 
 
-		genericClass genericData = new genericClass("Updated");
+		genericClass genericData = new genericClass("Some Data Updated");
 
 		
 		
