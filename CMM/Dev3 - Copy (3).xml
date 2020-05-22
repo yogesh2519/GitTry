@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tsc:TimeSeriesDataConfigurations xmlns:tsc="urn:or-TimeSeriesDataConfigurations">
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2002</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_1lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@1lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>1lom</tsc:start_date>
+        <tsc:end_date>1lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2003</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_2lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@2lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>2lom</tsc:start_date>
+        <tsc:end_date>2lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2004</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_3lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@3lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>3lom</tsc:start_date>
+        <tsc:end_date>3lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2005</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_4lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@4lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>4lom</tsc:start_date>
+        <tsc:end_date>4lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2006</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_5lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@5lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>5lom</tsc:start_date>
+        <tsc:end_date>5lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2007</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_6lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@6lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>6lom</tsc:start_date>
+        <tsc:end_date>6lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2008</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_7lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@7lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>7lom</tsc:start_date>
+        <tsc:end_date>7lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2009</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_8lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@8lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>8lom</tsc:start_date>
+        <tsc:end_date>8lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2010</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_9lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@9lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>9lom</tsc:start_date>
+        <tsc:end_date>9lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2011</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_10lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@10lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>10lom</tsc:start_date>
+        <tsc:end_date>10lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2012</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_11lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@11lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>11lom</tsc:start_date>
+        <tsc:end_date>11lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2013</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_12lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@12lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>12lom</tsc:start_date>
+        <tsc:end_date>12lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2014</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_13lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@13lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>13lom</tsc:start_date>
+        <tsc:end_date>13lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2015</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_14lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@14lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>14lom</tsc:start_date>
+        <tsc:end_date>14lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2016</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_15lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@15lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>15lom</tsc:start_date>
+        <tsc:end_date>15lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2017</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_16lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@16lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>16lom</tsc:start_date>
+        <tsc:end_date>16lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2018</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_17lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@17lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>17lom</tsc:start_date>
+        <tsc:end_date>17lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2019</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_18lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@18lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>18lom</tsc:start_date>
+        <tsc:end_date>18lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2020</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_19lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@19lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>19lom</tsc:start_date>
+        <tsc:end_date>19lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2021</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_20lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@20lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>20lom</tsc:start_date>
+        <tsc:end_date>20lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2022</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_21lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@21lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>21lom</tsc:start_date>
+        <tsc:end_date>21lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2023</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_22lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@22lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>22lom</tsc:start_date>
+        <tsc:end_date>22lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2024</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_23lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@23lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>23lom</tsc:start_date>
+        <tsc:end_date>23lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2025</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_24lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@24lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>24lom</tsc:start_date>
+        <tsc:end_date>24lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2026</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_25lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@25lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>25lom</tsc:start_date>
+        <tsc:end_date>25lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2027</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_26lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@26lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>26lom</tsc:start_date>
+        <tsc:end_date>26lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2028</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_27lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@27lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>27lom</tsc:start_date>
+        <tsc:end_date>27lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2029</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_28lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@28lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>28lom</tsc:start_date>
+        <tsc:end_date>28lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2030</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_29lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@29lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>29lom</tsc:start_date>
+        <tsc:end_date>29lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2031</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_30lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@30lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>30lom</tsc:start_date>
+        <tsc:end_date>30lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2032</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_31lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@31lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>31lom</tsc:start_date>
+        <tsc:end_date>31lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2033</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_32lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@32lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>32lom</tsc:start_date>
+        <tsc:end_date>32lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2034</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_33lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@33lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>33lom</tsc:start_date>
+        <tsc:end_date>33lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2035</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_34lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@34lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>34lom</tsc:start_date>
+        <tsc:end_date>34lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2036</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_35lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@35lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>35lom</tsc:start_date>
+        <tsc:end_date>35lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2037</tsc:id>
+        <tsc:tsd_name>sVar_vSRR_FOB_SG_36lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vSRR_FOB_SG_grp</tsc:group_id>
+        <tsc:object>sVar_vSRR_FOB_SG</tsc:object>
+        <tsc:row_gpt>@36lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vSRR_FOB_SG</tsc:src_object>
+        <tsc:start_date>36lom</tsc:start_date>
+        <tsc:end_date>36lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2038</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_1lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@1lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>1lom</tsc:start_date>
+        <tsc:end_date>1lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2039</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_2lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@2lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>2lom</tsc:start_date>
+        <tsc:end_date>2lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2040</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_3lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@3lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>3lom</tsc:start_date>
+        <tsc:end_date>3lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2041</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_4lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@4lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>4lom</tsc:start_date>
+        <tsc:end_date>4lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2042</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_5lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@5lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>5lom</tsc:start_date>
+        <tsc:end_date>5lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2043</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_6lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@6lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>6lom</tsc:start_date>
+        <tsc:end_date>6lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2044</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_7lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@7lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>7lom</tsc:start_date>
+        <tsc:end_date>7lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2045</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_8lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@8lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>8lom</tsc:start_date>
+        <tsc:end_date>8lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2046</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_9lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@9lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>9lom</tsc:start_date>
+        <tsc:end_date>9lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2047</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_10lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@10lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>10lom</tsc:start_date>
+        <tsc:end_date>10lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2048</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_11lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@11lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>11lom</tsc:start_date>
+        <tsc:end_date>11lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2049</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_12lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@12lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>12lom</tsc:start_date>
+        <tsc:end_date>12lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2050</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_13lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@13lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>13lom</tsc:start_date>
+        <tsc:end_date>13lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2051</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_14lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@14lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>14lom</tsc:start_date>
+        <tsc:end_date>14lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2052</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_15lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@15lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>15lom</tsc:start_date>
+        <tsc:end_date>15lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2053</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_16lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@16lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>16lom</tsc:start_date>
+        <tsc:end_date>16lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2054</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_17lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@17lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>17lom</tsc:start_date>
+        <tsc:end_date>17lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2055</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_18lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@18lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>18lom</tsc:start_date>
+        <tsc:end_date>18lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2056</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_19lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@19lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>19lom</tsc:start_date>
+        <tsc:end_date>19lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2057</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_20lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@20lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>20lom</tsc:start_date>
+        <tsc:end_date>20lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2058</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_21lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@21lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>21lom</tsc:start_date>
+        <tsc:end_date>21lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2059</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_22lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@22lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>22lom</tsc:start_date>
+        <tsc:end_date>22lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2060</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_23lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@23lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>23lom</tsc:start_date>
+        <tsc:end_date>23lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2061</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_24lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@24lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>24lom</tsc:start_date>
+        <tsc:end_date>24lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2062</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_25lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@25lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>25lom</tsc:start_date>
+        <tsc:end_date>25lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2063</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_26lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@26lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>26lom</tsc:start_date>
+        <tsc:end_date>26lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2064</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_27lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@27lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>27lom</tsc:start_date>
+        <tsc:end_date>27lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2065</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_28lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@28lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>28lom</tsc:start_date>
+        <tsc:end_date>28lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2066</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_29lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@29lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>29lom</tsc:start_date>
+        <tsc:end_date>29lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2067</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_30lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@30lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>30lom</tsc:start_date>
+        <tsc:end_date>30lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2068</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_31lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@31lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>31lom</tsc:start_date>
+        <tsc:end_date>31lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2069</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_32lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@32lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>32lom</tsc:start_date>
+        <tsc:end_date>32lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2070</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_33lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@33lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>33lom</tsc:start_date>
+        <tsc:end_date>33lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2071</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_34lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@34lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>34lom</tsc:start_date>
+        <tsc:end_date>34lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2072</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_35lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@35lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>35lom</tsc:start_date>
+        <tsc:end_date>35lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2073</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_36lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@36lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>36lom</tsc:start_date>
+        <tsc:end_date>36lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2074</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_37lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@37lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>37lom</tsc:start_date>
+        <tsc:end_date>37lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2075</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_38lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@38lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>38lom</tsc:start_date>
+        <tsc:end_date>38lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2076</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_39lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@39lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>39lom</tsc:start_date>
+        <tsc:end_date>39lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2077</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_40lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@40lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>40lom</tsc:start_date>
+        <tsc:end_date>40lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2078</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_41lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@41lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>41lom</tsc:start_date>
+        <tsc:end_date>41lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2079</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_42lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@42lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>42lom</tsc:start_date>
+        <tsc:end_date>42lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2080</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_43lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@43lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>43lom</tsc:start_date>
+        <tsc:end_date>43lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2081</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_44lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@44lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>44lom</tsc:start_date>
+        <tsc:end_date>44lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2082</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_45lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@45lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>45lom</tsc:start_date>
+        <tsc:end_date>45lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2083</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_46lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@46lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>46lom</tsc:start_date>
+        <tsc:end_date>46lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2084</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_47lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@47lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>47lom</tsc:start_date>
+        <tsc:end_date>47lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2085</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_48lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@48lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>48lom</tsc:start_date>
+        <tsc:end_date>48lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2086</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_49lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@49lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>49lom</tsc:start_date>
+        <tsc:end_date>49lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2087</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_50lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@50lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>50lom</tsc:start_date>
+        <tsc:end_date>50lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2088</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_51lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@51lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>51lom</tsc:start_date>
+        <tsc:end_date>51lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2089</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_52lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@52lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>52lom</tsc:start_date>
+        <tsc:end_date>52lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2090</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_53lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@53lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>53lom</tsc:start_date>
+        <tsc:end_date>53lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2091</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_54lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@54lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>54lom</tsc:start_date>
+        <tsc:end_date>54lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2092</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_55lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@55lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>55lom</tsc:start_date>
+        <tsc:end_date>55lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2093</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_56lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@56lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>56lom</tsc:start_date>
+        <tsc:end_date>56lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2094</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_57lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@57lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>57lom</tsc:start_date>
+        <tsc:end_date>57lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2095</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_58lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@58lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>58lom</tsc:start_date>
+        <tsc:end_date>58lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2096</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_59lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@59lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>59lom</tsc:start_date>
+        <tsc:end_date>59lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2097</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_60lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@60lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>60lom</tsc:start_date>
+        <tsc:end_date>60lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2098</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_61lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@61lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>61lom</tsc:start_date>
+        <tsc:end_date>61lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2099</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_62lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@62lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>62lom</tsc:start_date>
+        <tsc:end_date>62lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2100</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_63lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@63lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>63lom</tsc:start_date>
+        <tsc:end_date>63lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2101</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_64lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@64lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>64lom</tsc:start_date>
+        <tsc:end_date>64lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2102</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_65lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@65lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>65lom</tsc:start_date>
+        <tsc:end_date>65lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2103</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_66lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@66lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>66lom</tsc:start_date>
+        <tsc:end_date>66lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2104</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_67lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@67lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>67lom</tsc:start_date>
+        <tsc:end_date>67lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2105</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_68lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@68lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>68lom</tsc:start_date>
+        <tsc:end_date>68lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2106</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_69lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@69lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>69lom</tsc:start_date>
+        <tsc:end_date>69lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2107</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_70lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@70lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>70lom</tsc:start_date>
+        <tsc:end_date>70lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2108</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_71lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@71lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>71lom</tsc:start_date>
+        <tsc:end_date>71lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2109</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_72lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@72lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>72lom</tsc:start_date>
+        <tsc:end_date>72lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2110</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_73lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@73lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>73lom</tsc:start_date>
+        <tsc:end_date>73lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2111</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_74lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@74lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>74lom</tsc:start_date>
+        <tsc:end_date>74lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2112</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_75lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@75lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>75lom</tsc:start_date>
+        <tsc:end_date>75lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2113</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_76lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@76lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>76lom</tsc:start_date>
+        <tsc:end_date>76lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2114</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_77lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@77lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>77lom</tsc:start_date>
+        <tsc:end_date>77lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2115</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_78lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@78lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>78lom</tsc:start_date>
+        <tsc:end_date>78lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2116</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_79lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@79lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>79lom</tsc:start_date>
+        <tsc:end_date>79lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2117</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_80lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@80lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>80lom</tsc:start_date>
+        <tsc:end_date>80lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2118</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_81lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@81lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>81lom</tsc:start_date>
+        <tsc:end_date>81lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2119</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_82lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@82lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>82lom</tsc:start_date>
+        <tsc:end_date>82lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2120</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_83lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@83lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>83lom</tsc:start_date>
+        <tsc:end_date>83lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2121</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_84lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@84lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>84lom</tsc:start_date>
+        <tsc:end_date>84lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2122</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_85lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@85lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>85lom</tsc:start_date>
+        <tsc:end_date>85lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2123</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_86lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@86lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>86lom</tsc:start_date>
+        <tsc:end_date>86lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2124</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_87lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@87lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>87lom</tsc:start_date>
+        <tsc:end_date>87lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2125</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_88lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@88lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>88lom</tsc:start_date>
+        <tsc:end_date>88lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2126</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_89lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@89lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>89lom</tsc:start_date>
+        <tsc:end_date>89lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2127</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_90lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@90lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>90lom</tsc:start_date>
+        <tsc:end_date>90lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2128</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_91lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@91lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>91lom</tsc:start_date>
+        <tsc:end_date>91lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2129</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_92lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@92lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>92lom</tsc:start_date>
+        <tsc:end_date>92lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2130</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_93lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@93lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>93lom</tsc:start_date>
+        <tsc:end_date>93lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2131</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_94lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@94lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>94lom</tsc:start_date>
+        <tsc:end_date>94lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2132</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_95lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@95lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>95lom</tsc:start_date>
+        <tsc:end_date>95lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2133</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_96lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@96lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>96lom</tsc:start_date>
+        <tsc:end_date>96lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2134</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_97lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@97lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>97lom</tsc:start_date>
+        <tsc:end_date>97lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2135</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_98lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@98lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>98lom</tsc:start_date>
+        <tsc:end_date>98lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2136</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_99lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@99lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>99lom</tsc:start_date>
+        <tsc:end_date>99lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+    <tsc:TimeSeriesDataConfiguration xmlns:tsc="urn:or-TimeSeriesDataConfiguration">
+        <tsc:active>Yes</tsc:active>
+        <tsc:id>2137</tsc:id>
+        <tsc:tsd_name>sVar_vRR_FOB_New_100lom</tsc:tsd_name>
+        <tsc:type>Index</tsc:type>
+        <tsc:group_id>sVar_vRR_FOB_New_grp</tsc:group_id>
+        <tsc:object>sVar_vRR_FOB_New</tsc:object>
+        <tsc:row_gpt>@100lom</tsc:row_gpt>
+        <tsc:col_gpt> </tsc:col_gpt>
+        <tsc:src_object>vRR_FOB_New</tsc:src_object>
+        <tsc:start_date>100lom</tsc:start_date>
+        <tsc:end_date>100lom</tsc:end_date>
+        <tsc:prior_value_method>Series</tsc:prior_value_method>
+        <tsc:returns_method>Log</tsc:returns_method>
+        <tsc:formula>contract_px(src_obj)</tsc:formula>
+    </tsc:TimeSeriesDataConfiguration>
+</tsc:TimeSeriesDataConfigurations>
