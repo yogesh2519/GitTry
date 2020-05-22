@@ -1,0 +1,30 @@
+package com.javastart;
+
+import java.util.List;
+import java.util.*;
+
+public class StreamTest {
+	
+	public static void main(String[] args)
+	{
+		List<Integer> numbers = new ArrayList<Integer>();
+		numbers.add(1);
+		numbers.add(45);
+		numbers.add(13);
+		numbers.add(111);
+		
+		int sum = numbers.stream().reduce(1,(x,y)->x+y);
+		
+		System.out.print(sum);
+		
+		
+		
+		
+		
+		
+	   
+		
+		
+	}
+
+}

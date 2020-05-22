@@ -1,0 +1,35 @@
+package com.javastart;
+
+import javax.xml.crypto.Data;
+
+public class GenericsTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Data data = new Data("Some string");
+		String var = (String)data.getObj();
+		System.out.print(var);
+	}
+
+}
+
+ class Data {
+	
+	private Object obj;
+
+	public Data(Object obj)	
+	{
+		 this.obj=obj;
+		
+	}
+	@Override
+	public String toString() {
+		return "data [obj=" + obj + "]";
+	}
+
+	public Object getObj() {
+		return obj;
+	}
+}
